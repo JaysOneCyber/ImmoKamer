@@ -1,0 +1,15 @@
+# Task: Implement ImmoKamer Landing Page
+
+- [x] Initialize Vite React project
+- [/] Install dependencies
+- [ ] Research and download Stitch designs
+    - [ ] Find "landing page immoKamer sombre"
+    - [ ] Find "landing page immoKamer V2"
+- [ ] Design System and CSS setup
+- [ ] Implement Components
+    - [ ] Navbar
+    - [ ] Hero Section
+    - [ ] "L'immobilier intelligent" section (with swapped content from "optimisez votre gestion")
+    - [ ] "Prete à moderniser votre gestion ?" section (swapped)
+    - [ ] Other sections from original design
+- [ ] Verification and Polish
