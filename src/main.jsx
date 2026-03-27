@@ -8,8 +8,8 @@ import DashP from './DashProprio.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <BrowserRouter>
-      {/* <App /> */}
-      <DashP />
+      <App />
+      {/* <DashP /> */}
     </BrowserRouter>
   </StrictMode>,
 )

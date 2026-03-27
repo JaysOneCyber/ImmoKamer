@@ -20,12 +20,12 @@ function Navbar() {
           <p>immo<span>Kamer</span></p>
         </Link>
         <div className="navbar-links">
-          <NavLink to="/" end>Accueil</NavLink>
+          {/* <NavLink to="/" end>Accueil</NavLink> */}
           <NavLink to="/fonctionnalites">Fonctionnalités</NavLink>
           <NavLink to="/tarifs">Tarifs</NavLink>
           <NavLink to="/temoignages">Témoignages</NavLink>
           <NavLink to="/contact">Contact</NavLink>
-          <NavLink to="/dashboard">Dashboard</NavLink>
+          {/* <NavLink to="/dashboard">Dashboard</NavLink> */}
         </div>
         <div className="navbar-actions">
           <Link to="/login" className="btn btn-ghost">S'identifier</Link>
