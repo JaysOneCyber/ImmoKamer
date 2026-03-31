@@ -683,20 +683,11 @@ button {
   font-size: 1.4rem;
 }
 
-.feature-icon.icon-orange {
+.feature-icon {
   background: rgba(200, 117, 50, 0.12);
   color: var(--accent-secondary);
 }
 
-.feature-icon.icon-amber {
-  background: rgba(254, 188, 46, 0.12);
-  color: #febc2e;
-}
-
-.feature-icon.icon-teal {
-  background: rgba(40, 200, 64, 0.12);
-  color: #28c840;
-}
 
 .feature-card h3 {
   font-size: 1.2rem;
