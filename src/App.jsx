@@ -1,5 +1,4 @@
 import { Routes, Route } from 'react-router-dom'
-import './App.css'
 import Navbar from './composants/Navbar.jsx'
 import Footer from './composants/Footer.jsx'
 import LandingPage from './pages/LandingPage.jsx'
