@@ -1,5 +1,4 @@
 import { Routes, Route } from 'react-router-dom'
-import './App.css'
 import ScrollToTop from './composants/ScollTop.jsx'
 import DashboardProprietaire from './pages_admin/DashboardProprietaire.jsx'
 import MesImmeubles from './pages_admin/MesImmeubles.jsx'
